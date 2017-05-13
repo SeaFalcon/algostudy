@@ -1,4 +1,4 @@
-package primeNumber;
+package primbeNumber;
 
 import java.io.IOException;
 
