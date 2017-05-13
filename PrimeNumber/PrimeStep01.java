@@ -8,8 +8,8 @@ import java.io.InputStreamReader;
  * Problem 1978
  */
 public class PrimeStep01 {
-    public static boolean prime[] = new boolean[1001];
     public static void main(String args[]) throws Exception{
+    	boolean prime[] = new boolean[1001];
         int answer = 0;
 
         for (int i = 0; i < prime.length; i++) {
